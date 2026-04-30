@@ -63,8 +63,8 @@ The script auto-detects cached TCGA data in the working directory and loads from
 
 ## References
 
-1. Liu J et al. An Integrated TCGA Pan-Cancer Clinical Data Resource. *Cell*. 2018;173(2):400-416. [doi:10.1016/j.cell.2018.02.052](https://doi.org/10.1016/j.cell.2018.02.052)
-2. Haider S et al. CPSM: Cancer Patient Survival Model. *bioRxiv*. 2024. [doi:10.1101/2024.11.14.623597](https://doi.org/10.1101/2024.11.14.623597)
+1. Liu J et al. An Integrated TCGA Pan-Cancer Clinical Data Resource. Cell. 2018;173(2):400-416. doi:10.1016/j.cell.2018.02.052
+2. Kaur H, Das P, Camphausen K, Shankavaram U. CPSM: R-package of an Automated Machine Learning Pipeline for Predicting the Survival Probability of Single Cancer Patient. bioRxiv. 2024. doi:10.1101/2024.11.14.623597
 
 ## Author
 
